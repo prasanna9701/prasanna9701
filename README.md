@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 👋 Hi, I'm Prasanna
@@ -103,7 +104,7 @@ I'm a Computer Science Engineering student specializing in **Artificial Intellig
 
 ### ☁️ AI & Cloud Engineering Intern
 
-**NinetyX Ideation**  
+**Meta Plant**  
 `Jun 2026 – Aug 2026`
 
 **AI Engineering • Backend • Cloud • 3D Applications**
@@ -203,69 +204,16 @@ An AI-based system that analyzes product/package images using **OCR** and genera
 
 ---
 
-# 🚀 Current Focus
+## 🎯 What I'm Working On
 
-<div align="center">
-
-### Exploring ideas • Building projects • Growing through experience
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 Artificial Intelligence
-
-- Machine Learning
-- Generative AI
-- Large Language Models
-- RAG & AI Agents
-- Computer Vision
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛠️ Engineering
-
-- Python Development
-- Backend Engineering
-- AI Application Development
-- APIs & Databases
-- Cloud & Deployment
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔬 Exploring
-
-- 🔐 Secure & Privacy-Preserving AI
-- ⚛️ Quantum Computing
-- 🧠 AI Security
-- ☁️ Cloud-based AI Systems
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌱 Goals
-
-- 🚀 Build meaningful AI projects
-- 🌍 Contribute to Open Source
-- 💻 Work on real-world systems
-- 📚 Keep learning and improving
-
-</td>
-
-</tr>
-</table>
+```text
+🤖 AI / ML              ████████████████████░   Exploring & Building
+🧠 Generative AI        ██████████████████░░░   Learning & Building
+🐍 Python               ████████████████████░   Building
+⚙️ Software Engineering █████████████████░░░░   Improving
+⚛️ Quantum Computing    ████████████░░░░░░░░   Exploring
+🔐 Secure AI            ████████████░░░░░░░░   Exploring
+```
 
 ---
 
@@ -289,8 +237,10 @@ An AI-based system that analyzes product/package images using **OCR** and genera
 
 <br>
 
-**Curiosity fuels learning.**  
-**Building creates experience.**  
+**Curiosity fuels learning.**
+
+**Building creates experience.**
+
 **Contributing creates impact.**
 
 </div>
