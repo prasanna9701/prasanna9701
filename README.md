@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 Hi, I'm Prasanna
@@ -204,32 +203,69 @@ An AI-based system that analyzes product/package images using **OCR** and genera
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Current Focus
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Prasanna9701&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna9701&layout=compact&hide_border=true&theme=tokyonight">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Prasanna9701&theme=tokyonight&hide_border=true">
+### Exploring ideas • Building projects • Growing through experience
 
 </div>
 
----
+<table>
+<tr>
 
-# 🎯 What I'm Working On
+<td width="50%" valign="top">
 
-```text
-🤖 AI / ML              ████████████████████░   Exploring & Building
-🧠 Generative AI        ██████████████████░░░   Learning & Building
-🐍 Python               ████████████████████░   Building
-⚙️ Software Engineering █████████████████░░░░   Improving
-⚛️ Quantum Computing    ████████████░░░░░░░░   Exploring
-🔐 Secure AI            ████████████░░░░░░░░   Exploring
+### 🤖 Artificial Intelligence
 
+- Machine Learning
+- Generative AI
+- Large Language Models
+- RAG & AI Agents
+- Computer Vision
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Engineering
+
+- Python Development
+- Backend Engineering
+- AI Application Development
+- APIs & Databases
+- Cloud & Deployment
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔬 Exploring
+
+- 🔐 Secure & Privacy-Preserving AI
+- ⚛️ Quantum Computing
+- 🧠 AI Security
+- ☁️ Cloud-based AI Systems
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 Goals
+
+- 🚀 Build meaningful AI projects
+- 🌍 Contribute to Open Source
+- 💻 Work on real-world systems
+- 📚 Keep learning and improving
+
+</td>
+
+</tr>
+</table>
 
 ---
 
