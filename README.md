@@ -222,38 +222,14 @@ An AI-based system that analyzes product/package images using **OCR** and genera
 
 # 🎯 What I'm Working On
 
-<table>
-<tr>
+```text
+🤖 AI / ML              ████████████████████░   Exploring & Building
+🧠 Generative AI        ██████████████████░░░   Learning & Building
+🐍 Python               ████████████████████░   Building
+⚙️ Software Engineering █████████████████░░░░   Improving
+⚛️ Quantum Computing    ████████████░░░░░░░░   Exploring
+🔐 Secure AI            ████████████░░░░░░░░   Exploring
 
-<td width="65%">
-
-🤖 **AI / ML**  
-🧠 **Generative AI**  
-🐍 **Python**  
-⚙️ **Software Engineering**  
-⚛️ **Quantum Computing**  
-🔐 **Secure AI**
-
-</td>
-
-<td width="35%">
-
-**Exploring & Building**
-
-**Learning & Building**
-
-**Building**
-
-**Improving**
-
-**Exploring**
-
-**Exploring**
-
-</td>
-
-</tr>
-</table>
 
 ---
 
