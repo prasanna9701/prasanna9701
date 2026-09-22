@@ -7,10 +7,6 @@
 Building intelligent systems, experimenting with AI, and turning ideas into
 real-world software.
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Prasanna9701&color=blueviolet&style=flat-square)
-
 </div>
 
 ---
@@ -84,22 +80,40 @@ AI-powered applications, backend systems, and intelligent workflows.
 
 ---
 
-## 💼 Experience
+# 💼 Experience
+
+<div align="center">
+
+### 🚀 Building • Learning • Contributing • Growing
+
+</div>
 
 ### ☁️ AI & Cloud Engineering Intern
 **NinetyX Ideation · 2026**
 
-Worked on AI model integration, data processing pipelines, intelligent
-workflows, conversational AI features, and Python/PostgreSQL backend systems.
+> **AI Engineering • Backend • Cloud • 3D Applications**
 
-Also contributed to **Metaplant**, a 3D-based web and mobile application,
-and explored AI deployment using cloud infrastructure.
+- 🤖 Integrated AI models into real-world applications
+- ⚙️ Built data processing pipelines and intelligent workflows
+- 💬 Worked on conversational AI features
+- 🐍 Developed backend systems using **Python & PostgreSQL**
+- 🔗 Worked with APIs and AI-driven integrations
+- ☁️ Explored AI deployment and cloud infrastructure
+- 🌐 Contributed to **Metaplant**, a 3D web/mobile application
+
+---
 
 ### 📱 Full Stack & Mobile Developer Intern
 **NinetyX Ideation · 2025**
 
-Worked on **Inspecy AI** and **Ward Mate**, developing AI-powered applications
-and improving AI workflows, usability, and application performance.
+> **AI Applications • Full Stack • Mobile Development**
+
+- 🧠 Worked on **Inspecy AI**
+- 📱 Contributed to **Ward Mate**
+- 🤖 Developed AI-powered application features
+- 🔧 Worked across frontend, backend and AI workflows
+- ⚡ Improved application usability and performance
+- 🔄 Integrated AI functionality into real-world applications
 
 ---
 
@@ -117,6 +131,10 @@ and improving AI workflows, usability, and application performance.
 A secure AI platform focused on private AI inference and confidential
 document analysis using Trusted Execution Environments.
 
+<br>
+
+`AI Security` `TEE` `Privacy` `Secure Computing`
+
 </td>
 
 <td width="50%">
@@ -127,6 +145,10 @@ document analysis using Trusted Execution Environments.
 
 A real-time multi-modal system using audio-visual analysis, SyncNet,
 3D-CNNs and contrastive learning.
+
+<br>
+
+`Computer Vision` `Deep Learning` `Audio-Visual AI`
 
 </td>
 
@@ -143,6 +165,10 @@ A real-time multi-modal system using audio-visual analysis, SyncNet,
 A quantum optimization framework using **QUBO, QAOA and Qiskit** with
 hybrid quantum-classical optimization.
 
+<br>
+
+`Qiskit` `QAOA` `QUBO` `Quantum Computing`
+
 </td>
 
 <td width="50%">
@@ -154,6 +180,10 @@ hybrid quantum-classical optimization.
 An AI-based system that analyzes product/package images using OCR and
 generates automated compliance results and reports.
 
+<br>
+
+`OCR` `AI` `Python` `Document Analysis`
+
 </td>
 
 </tr>
@@ -161,7 +191,7 @@ generates automated compliance results and reports.
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -171,14 +201,22 @@ generates automated compliance results and reports.
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Prasanna9701&theme=tokyonight&hide_border=true" />
+
+</div>
+
 ---
 
 ## 🎯 What I'm Working On
 
 ```text
-AI / ML              ████████████████████░   Exploring & Building
-Generative AI        ██████████████████░░░   Learning & Building
-Python               ████████████████████░   Building
-Software Engineering █████████████████░░░░   Improving
-Quantum Computing    ████████████░░░░░░░░   Exploring
-Secure AI            ████████████░░░░░░░░   Exploring
+🤖 AI / ML              ████████████████████░   Exploring & Building
+🧠 Generative AI        ██████████████████░░░   Learning & Building
+🐍 Python               ████████████████████░   Building
+⚙️ Software Engineering █████████████████░░░░   Improving
+⚛️ Quantum Computing    ████████████░░░░░░░░   Exploring
+🔐 Secure AI            ████████████░░░░░░░░   Exploring
